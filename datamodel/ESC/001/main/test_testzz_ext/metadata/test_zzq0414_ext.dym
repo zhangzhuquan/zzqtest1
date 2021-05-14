@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1J9RKUUR/C/J</MasterId>
+  <BizappId>1LY4YM99E+9F</BizappId>
+  <Id>1LY5/ORQU2C2</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>2</DevType>
+      <ModifyDate>1620953255000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <DevType>2</DevType>
+          <Id>1LY5/ORQU2C2</Id>
+          <Key>test_zzq0414_ext</Key>
+          <EntityId>1LY5/ORQU2C2</EntityId>
+          <ParentId>1J9RKUUR/C/J</ParentId>
+          <MasterId>1J9RKUUR/C/J</MasterId>
+          <BizappId>1LY4YM99E+9F</BizappId>
+          <InheritPath>00305e8b000006ac,1J9RKUUR/C/J</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1LY5/ORQU2C2</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1LY5/ORQU2C2</Id>
+              <Key>test_zzq0414_ext</Key>
+            </BillFormAp>
+            <FieldAp action="edit" oid="DH7eec3x8T">
+              <Name>金额啊啊啊</Name>
+            </FieldAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1138185389824016384</ModifierId>
+      <EntityId>1LY5/ORQU2C2</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1620953255208</Version>
+      <ParentId>1J9RKUUR/C/J</ParentId>
+      <MasterId>1J9RKUUR/C/J</MasterId>
+      <Number>test_zzq0414_ext</Number>
+      <BizappId>1LY4YM99E+9F</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1LY5/ORQU2C2</Id>
+      <InheritPath>00305e8b000006ac,1J9RKUUR/C/J</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>2</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <DevType>2</DevType>
+          <Id>1LY5/ORQU2C2</Id>
+          <ParentId>1J9RKUUR/C/J</ParentId>
+          <MasterId>1J9RKUUR/C/J</MasterId>
+          <BizappId>1LY4YM99E+9F</BizappId>
+          <InheritPath>00305e8b000006ac,1J9RKUUR/C/J</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Id>1LY5/ORQU2C2</Id>
+              <Key>test_zzq0414_ext</Key>
+            </BillEntity>
+            <AmountField action="edit" oid="DH7eec3x8T">
+              <Name>金额啊啊啊</Name>
+            </AmountField>
+            <CurrencyField action="edit" oid="oG2tx307gn">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <CurrencyField action="edit" oid="NjP0EXPhrZ">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <CurrencyField action="edit" oid="Vch1zUk471">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <CurrencyField action="edit" oid="bInFBPjK4C">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <UnitField action="edit" oid="tWpQSHYmeh">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1620953255259</Version>
+      <ParentId>1J9RKUUR/C/J</ParentId>
+      <MasterId>1J9RKUUR/C/J</MasterId>
+      <Number>test_zzq0414_ext</Number>
+      <BizappId>1LY4YM99E+9F</BizappId>
+      <Id>1LY5/ORQU2C2</Id>
+      <InheritPath>00305e8b000006ac,1J9RKUUR/C/J</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1620953255208</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1J9R1S5MMX09</BizunitId>
+</DeployMetadata>
