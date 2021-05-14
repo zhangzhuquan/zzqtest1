@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1KBL7Y2S6CK1</MasterId>
+  <Id>1KBL7Y2S6CK1</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_zzq04261</Number>
+      <PkId>1KBMN9/FVU0V</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>zzq04261</Name>
+      <Id>1KBL7Y2S6CK1</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_zzq04261</Number>
+      <PkId>1KBMN935XERC</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>zzq04261</Name>
+      <Id>1KBL7Y2S6CK1</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1619422416881</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1LVXI9L3H6/9</MasterId>
+  <Id>1LVXI9L3H6/9</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_zzq05132</Number>
+      <PkId>1LVXMHW26Q5C</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>基础资料1</Name>
+      <Id>1LVXI9L3H6/9</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_zzq05132</Number>
+      <PkId>1LVXMI++H58X</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>基础资料1</Name>
+      <Id>1LVXI9L3H6/9</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1620897481978</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

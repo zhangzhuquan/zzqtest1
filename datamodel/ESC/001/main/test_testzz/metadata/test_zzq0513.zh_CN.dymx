@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1LVX1//UY5+7</MasterId>
+  <Id>1LVX1//UY5+7</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_zzq0513</Number>
+      <PkId>1LVX1/=1SU5M</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>zzq04161的布局</Name>
+      <Id>1LVX1//UY5+7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1620897113858</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

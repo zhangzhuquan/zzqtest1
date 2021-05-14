@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1KBL7Y2S6CK1</MasterId>
+  <BizappId>1J9R1S33QOUE</BizappId>
+  <Id>1KBL7Y2S6CK1</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1619422417000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>test</Isv>
+          <Id>1KBL7Y2S6CK1</Id>
+          <Key>test_zzq04261</Key>
+          <EntityId>1KBL7Y2S6CK1</EntityId>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1J9R1S33QOUE</BizappId>
+          <Name>zzq04261</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1KBL7Y2S6CK1</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1KBL7Y2S6CK1</Id>
+              <Name>zzq04261</Name>
+              <Key>test_zzq04261</Key>
+            </BillFormAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1138185389824016384</ModifierId>
+      <EntityId>1KBL7Y2S6CK1</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1619422416881</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>test_zzq04261</Number>
+      <BizappId>1J9R1S33QOUE</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1KBL7Y2S6CK1</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1KBL7Y2S6CK1</Id>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1J9R1S33QOUE</BizappId>
+          <IsvSign/>
+          <Name>zzq04261</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <TableName>zzq04261</TableName>
+              <Operations>
+                <Operation action="edit" oid="c91d5125000034ac">
+                  <Parameter>
+                    <SaveParameter>
+                      <Value>2</Value>
+                    </SaveParameter>
+                  </Parameter>
+                </Operation>
+              </Operations>
+              <Id>1KBL7Y2S6CK1</Id>
+              <Key>test_zzq04261</Key>
+              <Name>zzq04261</Name>
+            </BillEntity>
+            <BillStatusField action="edit" oid="6q69iznvHX">
+              <StatusItems>
+                <StatusItem action="edit" oid="1">
+                  <statuskey>1</statuskey>
+                </StatusItem>
+                <StatusItem action="edit" oid="2">
+                  <statuskey>2</statuskey>
+                </StatusItem>
+                <StatusItem action="edit" oid="3">
+                  <statuskey>c</statuskey>
+                </StatusItem>
+              </StatusItems>
+              <DefValue>1</DefValue>
+            </BillStatusField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1619422416922</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>test_zzq04261</Number>
+      <BizappId>1J9R1S33QOUE</BizappId>
+      <Id>1KBL7Y2S6CK1</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1619422416881</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1J9R1S5MMX09</BizunitId>
+</DeployMetadata>

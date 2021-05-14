@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J9R1SR44C+3</MasterId>
+  <Id>1J9R1SR44C+3</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_testzz_apphome</Number>
+      <PkId>1J9R1SYCZR/3</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>testzz_应用首页</Name>
+      <Id>1J9R1SR44C+3</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_testzz_apphome</Number>
+      <PkId>1J9R1T/MW9R1</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>testzz_应用首页</Name>
+      <Id>1J9R1SR44C+3</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618380180337</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
